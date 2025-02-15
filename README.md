@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 ## **Deployment** 
 This application is deployed on Netlify. You can view it here:
 
-🔗 Live Demo: React Portfolio
+🔗 Live Demo: https://flourishing-elf-c9cc08.netlify.app/
 
 
 ## **Screenshots**
